@@ -1,0 +1,31 @@
+// if the node being deleted has no children 
+
+/*if  node to be deleted has no children and it is  the root node */
+
+/*if  node to be deleted has no children and it is  the right child of the parent node */
+
+/*if  node to be deleted has no children and it is  the left child of the parent node */
+
+// if node has left child
+
+/* if node as only left child and it is  the root node */
+
+/* if node as only left child and it is  the left  node  of the parent */
+
+/* if node as only left child and it is  the right  node  of the parent */
+
+// if node has right child
+
+/* if node has right child  and it is  the root node */
+
+/* if node has right child  and it is  the left child of the parent node */
+
+/* if node has right child  and it is  the right child of the parent node */
+
+// if node has two children
+
+/*if node has two children and it is the root node */
+
+/*if node has two children and it is the right child of the parent  node */
+
+/*if node has two children and it is the left child of the parent  node */
