@@ -27,4 +27,6 @@ class SubsetArray{
      }
      int m = arr1.length();
      int n = arr2.length();
-     SubsetArray(arr11,arr2,m,n)
+     SubsetArray(arr11,arr2,m,n);
+   }
+}
