@@ -50,6 +50,6 @@ class MissingNumber {
 		for(int i=0;i<n;i++)
 			array[i]=sc.nextInt();
 
-		System.out.println(  missingNumber(array)  );
+		System.out.println(missingNumber(array)  );
 	}
 }
